@@ -25,9 +25,9 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
-val CalcBG = Color(0xFF094933)
+val CalcBG = Color(0xFF066185)
 val DarkSC = Color(0xFF282834)
-val BotonClr = Color(0xFF087049)
+val BotonClr = Color(0xFF33718D)
 val AppBG = Color(0xFF1B2E4B)
 @Composable
 fun CalcBtn(text: String, modifier: Modifier = Modifier, onClick: () -> Unit) {
